@@ -11,3 +11,7 @@ Creating the Monash DeepNeuron Logo as ASCII art through 2 different methods.
    2. `$ ./build/mdn-logo-fromfile`
 - License - MIT
 - [bpt](https://bpt.pizza/docs/latest/index.html)
+
+## Result
+
+![logo-result](imgs/logo-result.png)

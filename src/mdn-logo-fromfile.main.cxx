@@ -1,3 +1,17 @@
+/// \brief Printing from Input file stream
+///
+/// Author: Tyler Swann (tyler.swann05@gmail.com)
+/// 
+/// Version: v0.1.0
+///
+/// Date: 06-01-2023
+///
+/// GitHub: https://github.com/oraqlle/mdn-ascii-logo
+///
+/// License: MIT
+///
+/// Copyright: Copyright (c) 2023
+/// \file mdn-logo-fromfile.main.cxx
 
 #include <fmt/core.h>
 
