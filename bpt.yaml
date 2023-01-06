@@ -1,0 +1,23 @@
+
+name: mdn-ascii-logo
+version: 0.1.0
+
+dependencies:
+  - fmt@9.1.0
+
+
+readme: README.md
+
+
+description: |
+  Creating the Monash DeepNeuron Logo as ASCII art through 2 different methods.
+
+
+repository: https://github.com/oraqlle/mdn-ascii-logo
+
+
+license: MIT
+
+
+authors:
+  - Tyler Swann <tyler.swann05@gmail.com>
